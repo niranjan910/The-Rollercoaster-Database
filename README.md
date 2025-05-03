@@ -1,49 +1,22 @@
 # The-Rollercoaster-Database
 
 Author: Niranjan  
-Date: 26 April 2025
+Date: 3 May 2025
 
 ---
 
 # Project Background
 
-This project explores the AI job market all over the world, focusing on global hiring trends, salary distributions, remote work patterns, and skills in demand. As a Data Analyst working within the AI and tech employment sector, the goal was to provide actionable insights that can support strategic hiring, career planning, and workforce development initiatives.
+This project analyzes a comprehensive dataset of global rollercoasters to uncover trends in design, performance, and geographic distribution. Leveraging Python and exploratory data analysis (EDA), it provides actionable insights for amusement park operators, engineers, and enthusiasts to understand ride innovation and strategic planning.
 
-Insights and recommendations are provided on the following key areas:
+Data Overview:
 
-- **Industry Trends**
-- **Skill Requirements**
-- **Geographic and Remote Work Patterns**
-- **Automation Risk and Future Growth**
+- Attributes: Rollercoaster name, park location, year introduced, speed (km/h), height (m), length (m), manufacturer, ride duration, and material type (steel/wooden).
 
-The Python notebooks used to inspect, clean, and analyze the data can be found here `AI_CareerScopeipynb`.  
-An executive presentation summarizing the results can be found here `AI Career Scope Documentation.pdf` 
+- Scope: 1,000+ rollercoasters from amusement parks worldwide.
 
----
-
-# Data Structure & Initial Checks
-
-The primary data fields are as follows:
-- **Job Title**: Role designation for each listing
-- **Industry**: Sector classification of the employer
-- **Required Skills**: Key technical competencies demanded
-- **Salary Range**: Compensation details (annual)
-- **Work Type**: Categorized as Remote, Hybrid, or Onsite
-- **Company Size**: Employee headcount classification
-- **Location**: City and country of the job
-- **Automation Risk**: Estimate of how easily the role could be automated
-- **Growth Projections**: Future outlook for the role category
-
-
----
-
-# Executive Summary
-
-### Overview of Findings
-
-The analysis highlights that remote AI jobs offer approximately 20% higher salaries compared to onsite roles. Healthcare AI and Financial Technology (FinTech) sectors are emerging as leaders in AI adoption and hiring. Additionally, geographic hotspots such as San Francisco, Bangalore, and London continue to dominate the AI employment landscape. Specialized AI roles show robust future growth potential, while certain entry-level jobs face increased automation risk.
-
-
+The Python notebooks used to inspect, clean, and analyze the data can be found here 
+An executive presentation summarizing the results can be found here 
 
 ---
 
