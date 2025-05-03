@@ -15,7 +15,7 @@ Data Overview:
 
 - Scope: 1,000+ rollercoasters from amusement parks worldwide.
 
-The Python notebooks used to inspect, clean, and analyze the data can be found here 
+The Python notebooks used to inspect, clean, and analyze the data can be found here `Rollar_coaster_EDA.ipynb`.
 An executive presentation summarizing the results can be found here 
 
 ---
