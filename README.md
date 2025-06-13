@@ -27,8 +27,6 @@ An executive presentation summarizing the results can be found here
 * **Manufacturing** leads with ~58 counts, followed closely by **Education and Technology**, highlighting strong sector representation.
 * **Finance, Telecommunications, Energy**, and **Entertainment** show moderate counts, while **Transportation trails** at ~39, the lowest.
 * The color gradient (yellow to blue) reflects count intensity, with a gradual decline and diverse sector coverage, indicating balanced representation without extreme dominance.
-![Industry Count Distribution](images/Industry_count_distribution.png)
-
 
 ### Skill Requirements:
 
