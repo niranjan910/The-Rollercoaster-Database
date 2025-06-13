@@ -33,25 +33,18 @@ An executive presentation summarizing the results can be found here
 * **Project Management** (12.1%) is the top in-demand skill, followed closely by Cybersecurity and Python (11.7% each).
 * **Machine Learning** (10.5%) highlights AI's rising importance, while UX/UI Design, Sales, and Data Analysis (9.7% each) reflect diverse needs.
 * **Marketing** (9.1%), **JavaScript** (8.9%), and Communication (6.9%) show a balanced mix of technical and soft skills, emphasizing multidisciplinary demand.
-![Skill_Requirements](images/Distribution_of_Required_skills.png)
-
 
 ### Location and Remote Work Patterns:
 
 * **San Francisco** leads with an equal split between remote and non-remote jobs, while **Paris** and **London** favor remote roles.
 * **Sydney** and **Singapore** lean toward non-remote jobs, whereas **Toronto** and **Tokyo** show near-balanced distributions.
 * Remote work is widely available across major cities, but adoption varies by region.
-![Location_and_Remote_Work_Patterns](images/Remote_Friendly_Jobs_by_Location.png)
-
 
 ### Automation Risk and Future Growth:
 
 * **AI as a Complement, Not a Threat:** High AI adoption correlates with **lower automation risk** for roles like AI Researcher, HR Manager, and Product Manager, suggesting AI enhances rather than replaces these jobs.
 * **Vulnerable vs. Resilient Roles:** While **Marketing Specialist** and **Sales Manager** face higher automation risk due to repetitive tasks, **technical roles (Software Engineer, Data Scientist, Cybersecurity Analyst)** remain low-risk, as AI struggles to outpace evolving demands.
 * **Context Matters:** Uncertainty bands (e.g., for AI Researcher) show predictions vary—AI’s impact depends on task adaptability, proving it reshapes jobs more than it eliminates them outright.
-![Automation_Risk_and_Future_Growth](images/Automation_Risk_by_JobTitle_and_AI_Adoption.png)
-
-
 ---
 
 # Recommendations
@@ -74,10 +67,8 @@ Several assumptions were made to address data limitations:
 * Automation risk estimates were based on third-party machine learning models, introducing potential bias.
 * Remote classification was standardized manually where ambiguous descriptions were provided.
 
-
-
-
   ## 📬 Contact
 For queries or collaborations:
 - **Email**: [niranjan991100@gmail.com]
-- **LinkedIn**: (https://www.linkedin.com/in/niranjan-k-a83517229/)
+- **LinkedIn**: (https://www.linkedin.com/in/niranjan-a83517229/)
+- **Portfolio**: (https://niranjan910.github.io/NiranjanDataAnalystPortfolio.github.io/)
